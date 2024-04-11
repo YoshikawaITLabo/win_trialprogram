@@ -1,0 +1,7 @@
+{
+    "configurations": [
+        {
+	        "args": ["passwd"]
+        }
+    ]
+}
